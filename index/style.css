@@ -1,0 +1,104 @@
+.header-icon-image{
+    display: flex;
+    gap: 40px;
+}
+.header-icon, .header-icon1,.header-icon2,.header-icon3,.header-icon4,.header-icon5,.image3{
+    flex: 0;
+}
+.header-icon1{
+padding-left: 584px;
+}
+.title-text{
+    position: absolute;
+width: 492px;
+height: 105px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 70px;
+line-height: 105px;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+.header-icon-image{
+    border: white;
+}
+.flex-title{
+    display: flex;
+}
+.title-test,.image1{
+    flex: 0;
+}
+.title-text{
+    padding-left: 253px;
+    padding-top: 433px;
+}
+.image1{
+    padding-left: 20px;
+}
+.header-image{
+    width: 1920px;
+    height: 1080px;
+}
+.header-icon{
+    padding-left: 100px;
+}
+.picture-item{
+    display: flex;
+    gap: 0;
+}
+.picture1, .picture2{
+    flex: 0;
+}
+.picture-item{
+    padding-left: 20px;
+}
+.picture-4{
+    display: flex;
+    gap: 0;
+}
+.picture-one, .picture-two, .picture-three, .picture-four{
+    flex: 0;
+    gap: 0;
+}
+.picture-one{
+    
+width: 420px;
+height: 480px;
+padding-left: 20px;
+}
+.picture-two{
+    width: 420px;
+height: 480px;
+
+}
+.picture-three{
+    width: 420px;
+    height: 480px;
+}
+.picture-four{
+    width: 420px;
+    height: 480px;
+}
+.new-header{
+    width: 307px;
+height: 48px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+.picture-bottom{
+    display: flex;
+
+}
+.picture-bottom-one,.picture-bottom-two,.picture-bottom-three,.picture-bottom-four{
+    flex: 1;
+}
